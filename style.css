@@ -11,7 +11,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #EA5455;
+  background-image: url('bg.jpg');
 }
 .wrapper {
   padding: 35px 40px;
